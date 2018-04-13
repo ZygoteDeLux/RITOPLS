@@ -1,2 +1,0 @@
-# RITOPLS
-riot project
